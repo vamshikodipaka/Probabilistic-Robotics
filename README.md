@@ -1,7 +1,9 @@
 # PRCourseWork
 Probabilistic Robotics
 
-Lab: 2D Grid Localization and Practice Labs
+Lab: 2D Grid Localization
+
+Practice Labs: SLAM
 
 Paper Presentation: Real Time SLAM with a Single Camera (Mono-SLAM)
 
